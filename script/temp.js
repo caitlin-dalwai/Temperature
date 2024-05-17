@@ -14,7 +14,9 @@ clear.addEventListener('click', function() {
 function clearSum() {
     
 fahren.innerText = 'Fahrenheit:';
+celsius.value = '';
 }
+
 
 
 
